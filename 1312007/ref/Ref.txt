@@ -1,0 +1,5 @@
+http://dotnet.edu.vn/ChuyenMuc/Su-dung-chuoi-connection-tu-Appconfig-813.aspx
+http://sharecode.vn/source-code/full-codebao-cao-game-caro-893.htm
+https://msdn.microsoft.com/en-us/library/system.componentmodel.backgroundworker(v=vs.110).aspx
+https://msdn.microsoft.com/en-us/library/cc221403(v=vs.95).aspx
+http://stackoverflow.com/questions/7471470/c-background-worker

@@ -1,0 +1,124 @@
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\MainWindow.baml
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\MainWindow.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\App.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.cache
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\gomoku.g.resources
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\Image\Chess\ChessX_3.baml
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\Image\Chess\ChessX_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\Image\Chess\ChessO_3.baml
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\obj\Debug\Image\Chess\ChessO_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\Image\Chess\ChessO_3.baml
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\Image\Chess\ChessX_3.baml
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\MainWindow.baml
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\Image\Chess\ChessO_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\Image\Chess\ChessX_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\MainWindow.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\App.g.cs
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.cache
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\gomoku.g.resources
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\NguyenThaiAnh\Desktop\gomoku\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.exe.config
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.exe
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.pdb
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\MainWindow.baml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\MainWindow.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\App.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.cache
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.g.resources
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.exe
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.pdb
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.baml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.baml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\SocketIoClientDotNet.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\WebSocket4Net.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\EngineIoClientDotNet.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.xml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.exe.config
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.exe
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.pdb
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.exe
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.pdb
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\EngineIoClientDotNet.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\SocketIoClientDotNet.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\WebSocket4Net.dll
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.xml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.baml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.baml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\MainWindow.baml
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\MainWindow.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\App.g.cs
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.cache
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.g.resources
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+E:\HỌC TẬP\CHÍNH QUY\HỌC KÌ 5\LẬP TRÌNH WIN\gomoku\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\WebSocket4Net.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.baml
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.baml
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\MainWindow.baml
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\MainWindow.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\App.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.cache
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.g.resources
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.lref
+C:\Users\NguyenThaiAnh\Desktop\1312007_6\1312007_6\1312007_6\Source\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\WebSocket4Net.dll
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku.csprojResolveAssemblyReference.cache
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.baml
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.baml
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessO_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\Icon\Chess\ChessX_3.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\MainWindow.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\App.g.cs
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.cache
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku_MarkupCompile.lref
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\MainWindow.baml
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku.g.resources
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\NguyenThaiAnh\Desktop\1312007_7\1312007\1312007_7\source\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.Cache
